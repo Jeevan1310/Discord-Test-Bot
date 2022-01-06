@@ -32,4 +32,4 @@ async def ping(ctx):
 
 
 
-client.run('OTI4NzEwODc1NjI2NDk2MDYw.YdcvZw.7ZV7RljXzBGoqJkS4RTrw4kMB-Y')
+client.run('')
